@@ -1,6 +1,6 @@
 # vueclitest
 
-> A Vue.js project
+> 2018年秋 cnode论坛
 
 ## Build Setup
 
